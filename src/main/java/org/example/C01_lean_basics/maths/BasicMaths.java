@@ -1,7 +1,6 @@
-package org.example.lean_basics.maths;
+package org.example.C01_lean_basics.maths;
 
 import java.util.ArrayList;
-import java.util.Collection;
 import java.util.Collections;
 
 public class BasicMaths {

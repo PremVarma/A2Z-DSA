@@ -1,4 +1,4 @@
-package org.example.lean_basics.pattern;
+package org.example.C01_lean_basics.pattern;
 
 public class Pattern {
     public static void main(String[] args) {
