@@ -5,7 +5,7 @@ public class FindNumberAppearesOnes {
         int arr[] = {1,1,2,3,3,4,4};
         // brute search -> linear search using two nested loops
         // better solution -> hashing (array of size of max of arr ex 4)
-        //optimal
+        // optimal
         System.out.println(solution(arr));
     }
 

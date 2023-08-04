@@ -106,7 +106,7 @@ public class BasicMaths {
 
     private static void countOfDigits(int n) {
         int count = 0;
-        // (int) log10(n)+1 will return no digits inside number
+        // shortcut => (int) log10(n)+1 will return no digits inside number
         while(n>0){
             count = count+1;
             n = n/10;

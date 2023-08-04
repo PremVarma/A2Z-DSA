@@ -9,8 +9,5 @@
         <module name="A2Z-DSA" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel>
-      <module name="A2Z-DSA" target="17" />
-    </bytecodeTargetLevel>
   </component>
 </project>

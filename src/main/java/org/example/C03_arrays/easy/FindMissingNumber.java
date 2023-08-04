@@ -23,6 +23,12 @@ public class FindMissingNumber {
         return xor1^xor2;
         // 2 ^ 0 = 2
         //2 ^ 2 = 0
+//        int xor = 0;
+//        for (int i = 1; i <= N; i++) {
+//            if (i <= a.length)
+//                xor ^= a[i - 1];
+//            xor ^= i;
+//        }
     }
 
     private static int optimalSolutionOne(int[] arr, int n) {
